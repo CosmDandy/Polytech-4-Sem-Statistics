@@ -6,6 +6,16 @@ __pycache__/
 
 # Project specific
 Python/LB1/output/
+Python/LB1/reference_output/
+Python/LB2/output/
+Python/LB2/reference_output/
+Python/LB3/output/
+Python/LB3/reference_output/
+Python/LB4/output/
+Python/LB4/reference_output/
+Python/LB5/output/
+Python/LB5/reference_output/
+
 
 
 # MacOS
