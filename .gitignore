@@ -4,6 +4,10 @@ __pycache__/
 *$py.class
 ~$*
 
+# Project specific
+Python/LB1/output/
+
+
 # MacOS
 .DS_Store
 
