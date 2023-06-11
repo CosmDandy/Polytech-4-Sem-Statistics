@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"Числовые (Количественные)","id":"b440a42227dd1dba","x":-140,"y":0,"width":211,"height":83},
+		{"id":"e8de94752e0a05f7","x":182,"y":83,"width":250,"height":60,"type":"text","text":"Непрерывные"},
+		{"id":"ae7bb8ac0911a051","x":182,"y":-60,"width":250,"height":60,"type":"text","text":"Дискретные"},
+		{"id":"e0f8a273e5cf6d62","x":-580,"y":-120,"width":333,"height":60,"type":"text","text":"Признаки / Данные / Переменные"},
+		{"type":"text","text":"Порядковые","id":"e029d9537ecddd9a","x":182,"y":-180,"width":250,"height":60},
+		{"id":"9affb727d1bf3adc","x":-140,"y":-263,"width":211,"height":83,"type":"text","text":"Категориальные (Качественные)"},
+		{"type":"text","text":"Номинальные","id":"12c6d47defeed05e","x":182,"y":-323,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"aaa1313e97204eae","fromNode":"b440a42227dd1dba","fromSide":"right","toNode":"e8de94752e0a05f7","toSide":"left"},
+		{"id":"3fc16b38339070da","fromNode":"b440a42227dd1dba","fromSide":"right","toNode":"ae7bb8ac0911a051","toSide":"left"},
+		{"id":"86001f0eb285b453","fromNode":"e0f8a273e5cf6d62","fromSide":"right","toNode":"b440a42227dd1dba","toSide":"left"},
+		{"id":"d4855d579da4c4e4","fromNode":"9affb727d1bf3adc","fromSide":"right","toNode":"12c6d47defeed05e","toSide":"left"},
+		{"id":"1524eb9bb76ea36e","fromNode":"9affb727d1bf3adc","fromSide":"right","toNode":"e029d9537ecddd9a","toSide":"left"},
+		{"id":"1f694da996034fb6","fromNode":"e0f8a273e5cf6d62","fromSide":"right","toNode":"9affb727d1bf3adc","toSide":"left"}
+	]
+}
